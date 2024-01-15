@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-
+import { DialogComponent } from './dialog/dialog.component';
 const routes: Routes = [];
 
 @NgModule({
